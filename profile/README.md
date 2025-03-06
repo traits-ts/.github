@@ -1,10 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/traits-ts/core/refs/heads/master/etc/logo.svg" width="200" style="float: right" align="right" alt=""/>
 
-**Traits for TypeScript Classes**
-
-[![github (author stars)](https://img.shields.io/github/stars/rse?logo=github&label=author%20stars&color=%233377aa)](https://github.com/rse)
-[![github (author followers)](https://img.shields.io/github/followers/rse?label=author%20followers&logo=github&color=%234477aa)](https://github.com/rse)
+## Traits for TypeScript Classes
 
 [@traits-ts/core](https://github.com/traits-ts/core)
 is a TypeScript library providing a *trait* (aka *mixin*)
