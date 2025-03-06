@@ -1,2 +1,3 @@
-# .github
-Traits for TypeScript Classes
+
+**Traits for TypeScript Classes**
+
