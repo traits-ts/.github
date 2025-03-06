@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/traits-ts/core/refs/heads/master/etc/logo.svg" width="200" style="float: right" align="right" alt=""/>
 
-## @traits-ts: Traits for TypeScript Classes
+## Traits for TypeScript Classes
 
 [Traits TS](https://github.com/traits-ts) is a
 project for providing a *Traits* mechanism for
