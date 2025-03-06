@@ -6,9 +6,9 @@
 [Traits TS](https://github.com/traits-ts) is a
 project for providing a *Traits* mechanism for
 [TypeScript](https://www.typescriptlang.org/). It consists of the
-core NPM package [@traits-ts/core](https://npmjs.com/@traits-ts/core)
+core NPM package [@traits-ts/core](https://github.com/traits-ts/core)
 and the companion standard library NPM package
-[@traits-ts/stdlib](https://npmjs.com/@traits-ts/stdlib).
+[@traits-ts/stdlib](https://github.com/traits-ts/stdlib).
 
 The [@traits-ts/core](https://github.com/traits-ts/core) package
 is a TypeScript library providing the bare *traits* (aka *mixins*)
