@@ -10,7 +10,7 @@ core NPM package [@traits-ts/core](https://npmjs.com/@traits-ts/core)
 and the companion standard library NPM package
 [@traits-ts/stdlib](https://npmjs.com/@traits-ts/stdlib).
 
-[@traits-ts/core](https://github.com/traits-ts/core)
+The [@traits-ts/core](https://github.com/traits-ts/core) package
 is a TypeScript library providing the bare *traits* (aka *mixins*)
 mechanism for extending classes with *multiple* base functionalities,
 although TypeScript/JavaScript technically do not allow multiple
@@ -21,9 +21,9 @@ run-time objects at all. At the TypeScript level, it is fully type-safe
 and correctly derives all properties of the traits a class is derived
 from.
 
-The companion [@traits-ts/stdlib](https://github.com/traits-ts/stdlib) provides a set of
-standard, reusable, generic, typed traits, based on
-[@traits-ts/core](https://github.com/traits-ts/core). Currently,
+The companion [@traits-ts/stdlib](https://github.com/traits-ts/stdlib)
+package provides a set of standard, reusable, generic, typed traits,
+based on [@traits-ts/core](https://github.com/traits-ts/core). Currently,
 this standard library provides the particular traits *Identifiable*,
 *Configurable*, *Bindable*, *Subscribable*, *Hookable*, *Disposable*,
 *Traceable*, and *Serializable*.
