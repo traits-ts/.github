@@ -3,7 +3,9 @@
 
 ## Traits for TypeScript Classes
 
-[Traits TS](https://github.com/traits-ts) is a
+**[traits-ts.org](https://traits-ts.org)**
+
+[Traits TS](https://traits-ts.org) is a
 project for providing a *Traits* mechanism for
 [TypeScript](https://www.typescriptlang.org/). It consists of the
 core [@traits-ts/core](https://github.com/traits-ts/core)
